@@ -1,2 +1,5 @@
-# aboutViolaSavoy
-A Glimpse into the life of Viola Savoy
+# A Glimpse into the life of Viola Savoy
+
+This is a brief chronicle of unknown events in the life of Viola Savoy, an actress of theater plays and films. Today, there are several publications about the life and performances of the actress. However, many of these publications do not provide exact references and only refer to articles that also lack precise references. In this regard, and the reason for writing this work, was the opening of a gap that occurred just this year (2025). A couple of months ago I contacted the Billy Rose Theatre Division of the NYPL for information. A publication on \textit{The Billboard} announced the death of Frank L. Sowars father of Viola Savoy \cite{TBB1}. This brief note was the starting point of the investigation that led to request and later consult the birth, death, and marriage records in Boston, MA and New York area.
+
+This year (2025) marks the anniversary of the Alice in Wonderland films (1915). Let this short piece serve as a complement to the existing articles and information about the actress, as well as the theater and cinema scene in New York City during her era.
